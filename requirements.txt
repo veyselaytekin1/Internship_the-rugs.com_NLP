@@ -1,0 +1,6 @@
+cleantext==1.1.4
+matplotlib==3.5.2
+pandas==1.5.3
+streamlit==1.20.0
+textblob==0.17.1
+wordcloud==1.8.2.2
